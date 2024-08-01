@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3"
+  },
+  "name": "milbot",
+  "version": "1.0.0",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Danel",
+  "license": "ISC",
+  "description": ""
+}
